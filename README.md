@@ -1,45 +1,64 @@
+<h1 align="center">👋 Olá, eu sou o Guilherme</h1>
+
 <p align="center">
-  <!-- Banner ou imagem de cabeçalho -->
-  <img src="caminho/para/banner.png" alt="Banner do Guilherme" width="100%" />
+  Desenvolvedor Full Stack em formação, apaixonado por tecnologia, design limpo e boas práticas de código.  
+  Focado em criar soluções modernas e eficientes com uma abordagem profissional e minimalista.
 </p>
 
-### Olá, eu sou o Guilherme 👋
+---
 
-Sou [sua profissão / área de interesse / stack principal]  
-Atualmente trabalhando com **X**, aprendendo **Y**  
-Gosto de projetos em **Z**, open source, automação etc.
+### 🧠 Sobre mim
+
+- 💻 Estudando e desenvolvendo projetos nas áreas de **Frontend** e **Backend**  
+- 🚀 Buscando evoluir em **Java**, **React**, **MySQL** e **APIs RESTful**  
+- 📚 Acredito em código limpo, aprendizado contínuo e colaboração open source  
+- 🌍 Localização: Brasil  
 
 ---
 
-## 🛠️ Minhas Skills
+### 🛠️ Tecnologias
 
-| Linguagens & Ferramentas | Nível |
-|---------------------------|-------|
-| JavaScript / TypeScript   | ✅ Avançado |
-| Python / Django           | ✅ Intermediário |
-| React / Vue / Next.js     | ✅ Avançado |
-| Banco de Dados (SQL / NoSQL) | ✅ Intermediário |
-| DevOps / Docker / CI/CD   | ✅ Básico / Intermediário |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,react,mysql,git,github" />
+</div>
 
 ---
 
-## 📂 Projetos em destaque
+### 📂 Projetos em destaque
 
-- [Projeto A](link) – breve descrição do que faz / tecnologia usada  
-- [Projeto B](link) – “  
-- **Pinned repos**: você também pode “fixar” projetos que considera mais importantes no seu perfil do GitHub  
+- [🔗 Sistema de Gestão de Clientes](https://github.com/xGuilherme77/gestao-clientes)  
+  CRUD completo em Java com interface Swing e integração MySQL.  
+
+- [🌐 Portfólio Pessoal](https://github.com/xGuilherme77/portfolio)  
+  Website moderno desenvolvido em React com design responsivo.  
+
+- [⚙️ API REST de Produtos](https://github.com/xGuilherme77/api-produtos)  
+  Backend em Node.js com Express e autenticação JWT.  
 
 ---
 
-## 📊 Estatísticas & métricas
+### 📊 Estatísticas
 
-Você pode incluir widgets como:
+<div align="center">
 
-- GitHub Readme Stats (para mostrar linguagens mais usadas, número de commits etc.)  
-- Streaks / Relógio de contribuição  
-- Projetos mais populares  
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=xGuilherme77&show_icons=true&theme=transparent&hide_border=true&hide_title=true)
 
-Por exemplo:
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xGuilherme77&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xGuilherme77&layout=compact&theme=transparent&hide_border=true)
 
+</div>
+
+---
+
+### 📫 Contato
+
+<p align="center">
+  <a href="mailto:guilherme.dev@example.com">✉️ E-mail</a> •
+  <a href="https://www.linkedin.com/in/guilherme-dev/">💼 LinkedIn</a> •
+  <a href="https://github.com/xGuilherme77">🌐 GitHub</a>
+</p>
+
+---
+
+<p align="center">
+  <sub>“A simplicidade é a sofisticação máxima.” – Leonardo da Vinci</sub>
+</p>
