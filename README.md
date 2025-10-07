@@ -62,3 +62,8 @@
 <p align="center">
   <sub>“A simplicidade é a sofisticação máxima.” – Leonardo da Vinci</sub>
 </p>
+---
+
+### 🐍 Minhas contribuições
+
+![Snake animation](https://github.com/xGuilherme77/xGuilherme77/blob/output/snake.svg)
