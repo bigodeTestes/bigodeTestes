@@ -51,7 +51,7 @@
 
 <p align="center">
   <a href="mailto:guilhermefrancisc4@gmail.com">✉️ E-mail</a> •
-  <a href="www.linkedin.com/in/guilherme-almeida-3ba8a82a4/">💼 LinkedIn</a> •
+  <a href="www.linkedin.com/in/guilherme-almeida">💼 LinkedIn</a> •
   <a href="https://github.com/xGuilherme77">🌐 GitHub</a>
 </p>
 
