@@ -57,6 +57,6 @@
 ---
 
 <p align="center">
+  <sub>“A simplicidade é a sofisticação máxima.” – Leonardo da Vinci</sub></br>
   <sub>“Vai Corinthians</sub>
-  <sub>“A simplicidade é a sofisticação máxima.” – Leonardo da Vinci</sub>
 </p>
