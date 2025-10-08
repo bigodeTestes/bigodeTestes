@@ -1,9 +1,5 @@
 <h1 align="center"> Olá</h1>
 
-<p align="center">
-  💻 Desenvolvedor <strong>backend em formação</strong>, apaixonado por tecnologia e boas práticas de código.<br>
-  🚀 Focado em criar soluções <strong>modernas e eficientes</strong>.
-</p>
 
 ---
 
