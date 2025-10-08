@@ -1,4 +1,4 @@
-<h1 align="center"> Olá, eu sou o Guilherme</h1>
+<h1 align="center"> Olá</h1>
 
 <p align="center">
   💻 Desenvolvedor <strong>backend em formação</strong>, apaixonado por tecnologia e boas práticas de código.<br>
@@ -9,9 +9,7 @@
 
 ### 🧠 Sobre mim
 
-- 💡 Estudando e desenvolvendo projetos nas áreas de **Frontend** e **Backend**  
-- 🚀 Buscando evoluir em **Java**, **JavaScript** e **MySQL** 
-- 📚 Acredito no **aprendizado contínuo**  
+- 💡 Estudando Analise e Desenvolvimento de Sistema na Fatec Santana de Parnaiba 
 - 🌍 Localização: Santana de Parnaíba - SP, Brasil  
 
 ---
@@ -24,15 +22,6 @@
 
 ---
 
-### 📂 Projetos em destaque
-
-- [🔗 **Sistema de Gestão de Clientes**](https://github.com/xGuilherme77/gestao-clientes)  
-  CRUD completo em **Java (Swing)** com integração ao **MySQL**.  
-
-- [🌐 **Portfólio Pessoal**](https://github.com/xGuilherme77/portfolio)  
-  Website moderno desenvolvido em **React**, com design **responsivo e minimalista**.  
-
----
 
 ### 📊 Estatísticas
 
